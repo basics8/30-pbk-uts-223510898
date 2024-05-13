@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "dimas-46019"
-  }
+    "default": "dimas-46019",
+    "dist": "dimas-6e802"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
