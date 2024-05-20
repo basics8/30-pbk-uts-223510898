@@ -46,6 +46,16 @@ onMounted(() => {
 })
 </script>
 
+<script>
+export default {
+  props: {
+    todos: {
+      type: Array,
+      required: true
+    }
+  }
+};
+</script>
 
 <template>
 	<main class="app">
